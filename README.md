@@ -1,5 +1,5 @@
 # GitHub for biologists: A painless introduction to a powerful collaboration tool
-## MEER GitHub Workshop
+## MSU FW GitHub Workshop 2026
 
 **Repository instructions:**
 This repository stores an Rmarkdown document that you and your partner will take turns updating. To use, fork this repository to your own GitHub account. After forking, you will need to clone the repository to have the files locally on your computer.
