@@ -1,7 +1,6 @@
 ---
-title: "Molecular and Evolutionary Ecology Research Lab"
-subtitle: "GitHub Workshop"
-author: "Created by Sam Straus"
+title: "MSU FW Github Workshop 2026"
+author: "Created by Sam Brunner"
 date: "Updated `r format(Sys.time(), '%d %B, %Y')`"
 output: 
   html_document:
@@ -29,9 +28,9 @@ Installing the desktop application should have also installed the git program, b
 
 Check your git version by using the terminal in RStudio
 
-If, for some reason, git hasn't installed properly, there are several other options for doing so. See [GitHub's installation guide](https://github.com/git-guides/install-git) on their website and [this guide](https://happygitwithr.com/install-git.html) for some helpful additional instructions.
+If git hasn't installed properly, there are several other options installation. See [GitHub's installation guide](https://github.com/git-guides/install-git) on their website and [this guide](https://happygitwithr.com/install-git.html) for some helpful additional instructions.
 
-Many (but not all!) of the options for installation are command line based, which can be intimidating if you're not used to it. If you encounter any issues installing git, please contact Sam to help figure it out!
+Many of the options for installation are command line based, which can be intimidating if you're not used to it. If you encounter any issues installing git, please contact Sam to help figure it out!
 
 ### Create GitHub account
 
@@ -43,7 +42,7 @@ GitHub uses Personal Access Tokens (or PATs) in place of passwords for security 
 
 `install.packages(c("usethis", "gitcreds"))`
 
-Next, use `use_git_config()` to tell git where to find your GitHub account.
+Next, use `use_git_config()` to tell git where to find your GitHub account. `user.email` should be the email address associated with your GitHub account.
 
 `usethis::use_git_config(user.name = "your name", user.email = "name@email.org")`
 

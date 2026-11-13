@@ -14,15 +14,15 @@
 
 To start, be careful not to make changes on the same line -- this can introduce merge conflicts! But if you are feeling comfortable with the basics above, feel free to play around and see if you can identify and resolve conflicts.
 
-**Question 1.** Would you rather be able to fly or breathe underwater?
+**Question 1.** Would you rather be a house fly or an earthworm for a day, and why?
 
 *Answer:*
 
-**Question 2.** Is a hot dog a sandwich? Justify your answer.
+**Question 2.** Let's pretend that all foods exist a scale of soup -------> salad based on wetness. What is the last food on that scale that is still a soup but not yet a salad?
 
 *Answer:* 
 
-**Question 3.** What is your go-to karaoke anthem?
+**Question 3.** If you had to sing an entire song without looking up the lyrics, which would you choose?
 
 *Answer:*
 
